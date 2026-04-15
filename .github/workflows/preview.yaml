@@ -19,8 +19,9 @@ jobs:
       statuses: write
 
     steps:
+      - uses: actions/checkout@v6
+
       - name: Generate token
-        if: false
         id: generate_token
         uses: tibdex/github-app-token@v1
         with:
@@ -45,7 +46,7 @@ jobs:
             -f deployment_name="${{ steps.vars.outputs.branch }}" \
             -f cms_ref="${{ github.sha }}"
         env:
-          GH_TOKEN: ${{ secrets.TRIGGER_PAT }}
+          GH_TOKEN: ${{ steps.generate_token.outputs.token }}
 
       # Handle preview URL comment on the PR
       - name: Find Comment
@@ -66,16 +67,30 @@ jobs:
             **URL:** https://${{ steps.vars.outputs.branch }}.${{ vars.ENVIRONMENT }}-previews.ods.zazukoians.org/
             **Note:** It may take a few minutes for the DNS to propagate, the certificate to be generated and the preview to be reachable.    
 
+      - name: Determine changed content path
+        id: content
+        run: |
+          PATH_SUFFIX=$(scripts/get-preview-path.sh ${{ github.base_ref }} | head -n 1)
+          echo "suffix=$PATH_SUFFIX" >> $GITHUB_OUTPUT
+
+      - name: Status check
+        uses: myrotvorets/set-commit-status-action@v2.0.1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          context: Preview deployed
+          description: It may take a few minutes for the DNS to propagate, the certificate to be generated and the preview to be reachable.
+          status: success
+          targetUrl: https://${{ steps.vars.outputs.branch }}.${{ vars.ENVIRONMENT }}-previews.ods.zazukoians.org${{ steps.content.outputs.suffix }}
+
       - name: Stop preview environment
         if: github.event.action == 'closed'
         continue-on-error: true
         run: |
           gh workflow run preview-trigger.yaml \
             --repo opendata-swiss/metadata.swiss \
-            --ref cms-ref \
             -f env=${{ vars.ENVIRONMENT }} \
             -f action=DOWN \
             -f deployment_name="${{ steps.vars.outputs.branch }}" \
             -f cms_ref="${{ github.sha }}"
         env:
-          GH_TOKEN: ${{ secrets.TRIGGER_PAT }}
+          GH_TOKEN: ${{ steps.generate_token.outputs.token }}
