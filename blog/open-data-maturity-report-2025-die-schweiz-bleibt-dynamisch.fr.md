@@ -1,62 +1,62 @@
 ---
 title: "Open Data Maturity Report 2025: Die Schweiz bleibt dynamisch"
 date: 2026-03-02T14:08:00.000+01:00
-subHeading: Die neuesten Ergebnisse des Open Data Maturity Report liegen vor. Im
-  Jahr 2025 hat die Schweiz ihren Erfolgskurs fortgesetzt und ihre Stellung im
-  europäischen Open-Data-Ökosystem gefestigt.
+subHeading: Les résultats de l’Open Data Maturity Report 2025 sont disponibles !
+  En 2025, la Suisse poursuit sa progression et consolide sa position dans
+  l’écosystème européen de l’Open Data.
 ---
 ![](/cms/ogd-parapente.jpg)
 
-Dank gesetzlicher, technischer und organisatorischer Fortschritte wurde in der Schweiz das Prinzip «open by default», also der standardmässig freie Zugang zu Daten, gestärkt und sowohl die Qualität als auch die Wirkung (*Impact*) von Verwaltungsdaten gesteigert.
+Grâce à des avancées légales, techniques et organisationnelles, notre pays renforce son cadre « open by default » et améliore la qualité ainsi que l’impact de ses données publiques.
 
 
 
-**Die wichtigsten Ergebnisse des Berichts 2025:**
+**Résultats clés de l’édition 2025 :**
 
-✅ Open-Data-Politik: 89,8% (=)
+✅  Politique Open Data : 89.8% (=)
 
-✅ Portal: 72.4% (=)
+✅  Portail : 72.4% (=)
 
-✅ Qualität: 86.2% (+3.2 Prozentpunkte)
+✅  Qualité : 86.2% (+3.2)
 
-✅ Wirkung: 78.4% (+3.4 Prozentpunkte)
+✅ Impact : 78.4% (+3.4)
 
-➡️ Gesamtergebnis: 81.7% (+1.7 Prozentpunkte)
+➡️ Score global : 81.7% (+1.7)
 
-## Festigung des politischen Rahmens
+## Un cadre politique renforcé
 
-Seit 2024 gilt gemäss Artikel 10 EMBAG der Grundsatz «open by default». Damit werden das Bewusstsein und das Engagement für OGD gestärkt – in der Bundesverwaltung sowie bei ihren Partnern. Der OGD-Masterplan 2024–2027 gibt den Verwaltungseinheiten einen Rahmen zur Veröffentlichung offener Daten vor und harmonisiert die entsprechenden Praktiken.
+L’article 10 LMETA, en vigueur depuis 2024, consacre le principe “open by default” et renforce la prise de conscience et l’engagement autour des OGD dans l’administration fédérale et chez ses partenaires. Le Masterplan OGD 2024–2027 continue de guider les unités administratives dans la publication de données ouvertes et harmonise les pratiques.
 
-## Ein Portal im technologischen Wandel
+## Un portail en transition technologique
 
-Das Portal opendata.swiss wird derzeit schrittweise auf Piveau migriert. So sollen die Interoperabilität sowie die Vielfalt der Metadaten unter Einhaltung der FAIR-Prinzipien verbessert werden. Gleichzeitig investieren auch mehrere Kantone in ihre Infrastrukturen und erweitern ihr OGD-Angebot. Dadurch entsteht ein technologischer Wandel, der die Qualität und Nutzbarkeit offener Daten schweizweit stärkt. 
+Le portail opendata.swiss entame sa migration vers Piveau. L'objectif est d'améliorer l'interopérabilité et la diversité des métadonnées tout en respectant les principes FAIR. Parallèlement, plusieurs cantons investissent dans leurs infrastructures et élargissent leur offre de données publiques ouvertes. Il en résulte une évolution technologique qui renforce la qualité et l'utilisabilité des données ouvertes dans toute la Suisse.
 
-## Deutlich bessere Metadatenqualität
+## Une qualité des métadonnées en nette amélioration
 
-In der Kategorie «Qualität» konnte die Schweiz erhebliche Fortschritte erzielen (+3,2 Prozentpunkte). Diese Entwicklung ist auf drei zentrale Verbesserungen zurückzuführen: die Einführung eines nationalen Dashboards zur Metadatenqualität, die Aktualisierung des Standards DCAT-AP CH (v3) sowie die Weiterentwicklung des SHACL-Validators, der alle Metadatenangaben prüft, mit denen Datensätze beschrieben werden.
+La Suisse a réalisé des progrès considérables dans la catégorie « Qualité » (+3,2 points de pourcentage). Cette évolution est due à trois améliorations majeures : l'introduction d'un tableau de bord national sur la qualité des métadonnées, la mise à jour de la norme DCAT-AP CH (v3) et un SHACL-Checker renforcé, qui vérifie toutes les métadonnées utilisées pour décrire les jeux de données.
 
-## Grössere Wirkung dank Veröffentlichung besonders relevanter Daten
+## Un impact accru grâce à l’ouverture de données à forte valeur
 
-Die vollständige Öffnung der meteorologischen und klimatologischen Daten von MeteoSchweiz ist ein wichtiger Meilenstein. Darüber hinaus baut die Schweiz die Messung der Wiederverwendbarkeit und der Wirkung von offenen Daten weiter aus (+3,4 Prozentpunkte) – unterstützt durch eine aktive Community und regelmässige Veranstaltungen.
+L’ouverture complète des données météorologiques et climatologiques de MeteoSwiss constitue un jalon important. La Suisse améliore également sa capacité à mesurer la réutilisation et l’impact des données (+3.4 points), soutenue par une communauté active et des événements réguliers.
 
-Die Ergebnisse des Berichts bestätigen den Erfolgskurs der Schweiz und regen zur Fortsetzung der laufenden Bemühungen an. Die Prioritäten bleiben klar:
+Ces résultats confirment la trajectoire positive de la Suisse et encouragent la poursuite des efforts engagés. Les priorités restent claires :
 
-➡️ die Verbreitung und Qualität von OGD stärken
+➡️ renforcer la diffusion et la qualité des OGD,
 
-➡️ das nationale Portal modernisieren
+➡️ moderniser le portail national,
 
-➡️ die Messung der wirtschaftlichen, sozialen und ökologischen Auswirkungen verbessern
+➡️ améliorer la mesure de l’impact économique, social et environnemental,
 
-➡️ Kantone und Verwaltungseinheiten bei der kohärenten Gouvernanz im Bereich Verwaltungsdaten unterstützen
+➡️ soutenir les cantons et unités administratives dans une gouvernance cohérente des données publiques.
 
-Die Schweiz orientiert sich an Best Practices, setzt auf Innovation und entwickelt ihr Open-Data-Ökosystem zum Nutzen aller weiter.
+En s’inspirant des meilleures pratiques et en misant sur l’innovation, la Suisse continue de faire progresser son écosystème de données ouvertes au bénéfice de toutes et tous.
 
 
 
-**Mehr dazu:**
+**Découvrez :**
 
-📥 [gesamter Bericht](https://data.europa.eu/en/open-data-maturity/2025#open-data-in-europe-2025)
+📥 [le rapport complet](https://data.europa.eu/en/open-data-maturity/2025#open-data-in-europe-2025)
 
-📥 [Resultate der Schweiz](https://data.europa.eu/en/open-data-maturity/2025#country-profiles/country_CH)
+📥 [les résultats pour la Suisse](https://data.europa.eu/en/open-data-maturity/2025#country-profiles/country_CH)
 
-📥 [Factsheet](https://data.europa.eu/sites/default/files/2025-12/2025_odm_factsheet_switzerland.pdf)
+📥 [la factsheet au format pdf](https://data.europa.eu/sites/default/files/2025-12/2025_odm_factsheet_switzerland.pdf)
