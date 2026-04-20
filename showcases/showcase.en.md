@@ -1,7 +1,7 @@
 ---
 active: true
 title: Test showcase (EN)
-image: https://example.com/showcase
+image: /cms/92.png
 url: https://giodi.github.io/dashboard-wohnungsmietpreise-stadt-bern/
 categories:
   - http://publications.europa.eu/resource/authority/data-theme/SOCI
