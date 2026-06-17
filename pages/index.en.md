@@ -3,7 +3,7 @@ title: Home
 heading: Was uns als VE ausmacht
 subHeading: Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) beschäftigt sich hauptsächlich mit militärischen Fragen. Geleitet wird es seit Anfang 2019 von Viola Amherd. Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) beschäftigt sich hauptsächlich mit militärischen Fragen. Geleitet wird es seit Anfang 2019 von Viola Amherd.
 image: https://picsum.photos/1192/894/?image=29
-noToc: true
+fullWidth: true
 ---
 ::OdsSection{title="Aktuelles"}
     ::OdsCard{title="Geo.Hackmin"}
