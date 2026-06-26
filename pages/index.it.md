@@ -1,23 +1,26 @@
 ---
-title: Pagina iniziale
-heading: Cosa ci contraddistingue come VE
+heroImage: https://picsum.photos/1192/894/?image=29
+heading: OpenData.Swiss
 subHeading: >-
-  Il Dipartimento federale della difesa, della protezione della popolazione e dello sport
-  (DDPS) si occupa principalmente di questioni militari. Dall'inizio del 2019 è
-  diretto da Viola Amherd. Il Dipartimento federale della difesa, della protezione
-  della popolazione e dello sport (DDPS) si occupa principalmente di questioni
-  militari. Dall'inizio del 2019 è diretto da Viola Amherd.
+  Benvenuti su opendata.swiss, il portale nazionale dei dati aperti in Svizzera.
+  Qui trovate migliaia di set di dati pubblici della Confederazione, dei
+  Cantoni, dei Comuni e di istituzioni partner, nonché esempi concreti
+  (showcase) che ne illustrano il riutilizzo.
+
+  Questo sito si rivolge a tutte e a tutti: cittadine e cittadini, giornaliste e giornalisti, sviluppatrici e sviluppatori, PMI, studentesse e studenti, insegnanti, nonché alle amministrazioni.
+
+
 
   ::OdsHeroSearch
 
   ::
-heroImage: https://picsum.photos/1192/894/?image=29
+parent: null
 fullWidth: true
+title: Pagina iniziale
+mainMenu: null
+after: null
 ---
-::OdsSection{accentColor="50" textColor="500"}
-Benvenuti su opendata.swiss, il portale nazionale dei dati aperti in Svizzera. Qui trovate migliaia di set di dati pubblici della Confederazione, dei Cantoni, dei Comuni e di istituzioni partner, nonché esempi concreti (showcase) che ne illustrano il riutilizzo.
-Questo sito si rivolge a tutte e a tutti: cittadine e cittadini, giornaliste e giornalisti, sviluppatrici e sviluppatori, PMI, studentesse e studenti, insegnanti, nonché alle amministrazioni.
-::
+
 
 ::OdsSection{accentColor="500" textColor="900" layout="grid--items-5"}
 ::OdsCard{type="highlight" title="🔍 Scopri i dataset" href="/datasets"}
