@@ -1,13 +1,14 @@
 ---
 title: Startseite
-heading: Was uns als VE ausmacht
+heading: OpenData.Swiss
 subHeading: >-
-  Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport
-  (VBS) beschäftigt sich hauptsächlich mit militärischen Fragen. Geleitet wird
-  es seit Anfang 2019 von Viola Amherd. Das Eidgenössische Departement für
-  Verteidigung, Bevölkerungsschutz und Sport (VBS) beschäftigt sich
-  hauptsächlich mit militärischen Fragen. Geleitet wird es seit Anfang 2019 von
-  Viola Amherd.
+  Willkommen auf opendata.swiss, dem nationalen Portal für offene Daten in der
+  Schweiz. Hier finden Sie tausende öffentliche Datensätze des Bundes, der
+  Kantone, der Gemeinden und Partnerinstitutionen sowie konkrete Beispiele
+  (Showcases), die ihre Wiederverwendung veranschaulichen.
+
+  Diese Website richtet sich an alle: Bürgerinnen und Bürger, Journalistinnen und Journalisten, Entwicklerinnen und Entwickler, KMU, Studierende, Lehrpersonen sowie Verwaltungen.
+
 
   ::OdsHeroSearch
 
@@ -15,10 +16,7 @@ subHeading: >-
 heroImage: https://picsum.photos/1192/894/?image=29
 fullWidth: true
 ---
-::OdsSection{accentColor="50" textColor="500"}
-Willkommen auf opendata.swiss, dem nationalen Portal für offene Daten in der Schweiz. Hier finden Sie tausende öffentliche Datensätze des Bundes, der Kantone, der Gemeinden und Partnerinstitutionen sowie konkrete Beispiele (Showcases), die ihre Wiederverwendung veranschaulichen.
-Diese Website richtet sich an alle: Bürgerinnen und Bürger, Journalistinnen und Journalisten, Entwicklerinnen und Entwickler, KMU, Studierende, Lehrpersonen sowie Verwaltungen.
-::
+
 
 ::OdsSection{accentColor="500" textColor="900" layout="grid--items-5"}
 ::OdsCard{type="highlight" title="🔍 Datensätze entdecken" href="/datasets"}

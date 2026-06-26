@@ -1,23 +1,26 @@
 ---
-title: Homepage
-heading: What defines us as VE
+heroImage: https://picsum.photos/1192/894/?image=29
+heading: OpenData.Swiss
 subHeading: >-
-  The Federal Department of Defence, Civil Protection and Sport (DDPS) mainly
-  deals with military matters. Since the beginning of 2019, it has been headed
-  by Viola Amherd. The Federal Department of Defence, Civil Protection and
-  Sport (DDPS) mainly deals with military matters. Since the beginning of 2019,
-  it has been headed by Viola Amherd.
+  Welcome to opendata.swiss, Switzerland's national portal for open data. Here
+  you will find thousands of public datasets from the Confederation, cantons,
+  communes and partner institutions, as well as concrete examples (showcases)
+  illustrating their reuse.
+
+  This site is intended for everyone: citizens, journalists, developers, SMEs, students, teachers, as well as public administrations.
+
+
 
   ::OdsHeroSearch
 
   ::
-heroImage: https://picsum.photos/1192/894/?image=29
+parent: null
 fullWidth: true
+title: Homepage
+mainMenu: null
+after: null
 ---
-::OdsSection{accentColor="50" textColor="500"}
-Welcome to opendata.swiss, Switzerland's national portal for open data. Here you will find thousands of public datasets from the Confederation, cantons, communes and partner institutions, as well as concrete examples (showcases) illustrating their reuse.
-This site is intended for everyone: citizens, journalists, developers, SMEs, students, teachers, as well as public administrations.
-::
+
 
 ::OdsSection{accentColor="500" textColor="900" layout="grid--items-5"}
 ::OdsCard{type="highlight" title="🔍 Discover datasets" href="/datasets"}
