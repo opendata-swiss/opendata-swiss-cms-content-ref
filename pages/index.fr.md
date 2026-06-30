@@ -1,6 +1,7 @@
 ---
 heroImage: https://picsum.photos/1192/894/?image=29
-heading: OpenData.Swiss
+title: Accueil
+heading: opendata.swiss
 subHeading: >-
   Bienvenue sur opendata.swiss, le portail national des données ouvertes en
   Suisse. Vous y trouverez des milliers de jeux de données publics issus de la
@@ -16,7 +17,6 @@ subHeading: >-
   ::
 parent: null
 fullWidth: true
-title: Accueil
 mainMenu: null
 after: null
 ---

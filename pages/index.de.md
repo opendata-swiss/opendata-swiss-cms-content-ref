@@ -1,6 +1,6 @@
 ---
 title: Startseite
-heading: OpenData.Swiss
+heading: opendata.swiss
 subHeading: >-
   Willkommen auf opendata.swiss, dem nationalen Portal für offene Daten in der
   Schweiz. Hier finden Sie tausende öffentliche Datensätze des Bundes, der
