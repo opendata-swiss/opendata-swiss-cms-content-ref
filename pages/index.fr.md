@@ -1,5 +1,5 @@
 ---
-heroImage: https://picsum.photos/1192/894/?image=29
+title: Accueil
 heading: OpenData.Swiss
 subHeading: >-
   Bienvenue sur opendata.swiss, le portail national des données ouvertes en
@@ -14,10 +14,10 @@ subHeading: >-
   ::OdsHeroSearch
 
   ::
+heroImage: https://picsum.photos/1192/894/?image=29
 parent: null
-fullWidth: true
-title: Accueil
 mainMenu: null
+fullWidth: true
 after: null
 ---
 

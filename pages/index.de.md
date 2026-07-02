@@ -16,8 +16,6 @@ subHeading: >-
 heroImage: https://picsum.photos/1192/894/?image=29
 fullWidth: true
 ---
-
-
 ::OdsSection{accentColor="500" textColor="900" layout="grid--items-5"}
 ::OdsCard{type="highlight" title="🔍 Datensätze entdecken" href="/datasets"}
 Kategorien, Themen und Filter durchsuchen
@@ -40,5 +38,5 @@ Grundlagen und Vorteile von OGD verstehen
 ::
 ::
 
-::OdsSectionPromotedShowcases{:showcases='[{"id":"mietpreisentwicklung-in-bern-ein-instrument-fur-mieter-stadtplaner-und-entscheidungstrager","label":"mietpreisentwicklung-in-bern-ein-instrument-fur-mieter-stadtplaner-und-entscheidungstrager"}]' title="Anwendungsbeispiele" :max='4'}
+::OdsSectionPromotedShowcases{:showcases='[{"id":"mietpreisentwicklung-in-bern-ein-instrument-fur-mieter-stadtplaner-und-entscheidungstrager","label":"mietpreisentwicklung-in-bern-ein-instrument-fur-mieter-stadtplaner-und-entscheidungstrager"}]' title="Anwendungsbeispiele" :max='4' layout="slideshow"}
 ::
