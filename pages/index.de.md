@@ -40,9 +40,5 @@ Grundlagen und Vorteile von OGD verstehen
 ::
 ::
 
-<<<<<<< Updated upstream
-::OdsSectionPromotedShowcases{:showcases='[{"id":"mietpreisentwicklung-in-bern-ein-instrument-fur-mieter-stadtplaner-und-entscheidungstrager","label":"mietpreisentwicklung-in-bern-ein-instrument-fur-mieter-stadtplaner-und-entscheidungstrager"}]' title="Anwendungsbeispiele" :max='4'}
-=======
 ::OdsSectionPromotedShowcases{:showcases='[{"id":"mietpreisentwicklung-in-bern-ein-instrument-fur-mieter-stadtplaner-und-entscheidungstrager","label":"mietpreisentwicklung-in-bern-ein-instrument-fur-mieter-stadtplaner-und-entscheidungstrager"}]' title="Anwendungsbeispiele" :max='4' layout="slideshow" :slideshowOptions='{"autoplay":{"delay":2.5,"enabled":true},"speed":500}'}
->>>>>>> Stashed changes
 ::
