@@ -1,5 +1,6 @@
 ---
 active: true
+pinned: true
 title: Test showcase (DE)
 image: /cms/92.png
 url: https://giodi.github.io/dashboard-wohnungsmietpreise-stadt-bern/
