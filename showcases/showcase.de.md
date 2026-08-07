@@ -13,5 +13,19 @@ datasets:
     label: "Kanton Bern: Gebäude, Wohnungen und Wohnverhältnisse"
 tags:
   - test
+relationships:
+  - type: organization
+    organization:
+      - id: ch-bafu
+        label: Federal Office for the Environment (FOEN)
+    role: author
+  - type: organization-external
+    name: Foobar
+    url:
+      - http://example.com/foobar
+    role: collaborator
+  - type: person
+    name: John Doe
+    role: author
 ---
 Test auf Deutsch
