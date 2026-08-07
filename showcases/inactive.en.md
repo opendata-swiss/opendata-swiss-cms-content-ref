@@ -1,5 +1,6 @@
 ---
 active: false
+pinned: null
 title: Inactive showcase
 image: https://example.com/showcase
 url: https://giodi.github.io/dashboard-wohnungsmietpreise-stadt-bern/
