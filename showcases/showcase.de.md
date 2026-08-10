@@ -23,7 +23,7 @@ relationships:
     name: Foobar
     url:
       - http://example.com/foobar
-    role: collaborator
+    role: resourceProvider
   - type: person
     name: John Doe
     role: author
