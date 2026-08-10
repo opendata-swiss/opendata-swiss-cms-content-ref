@@ -1,13 +1,11 @@
 ---
 title: Startseite
-heading: OpenData.Swiss
+heading: opendata.swiss
 subHeading: >-
-  Willkommen auf opendata.swiss, dem nationalen Portal für offene Daten in der
-  Schweiz. Hier finden Sie tausende öffentliche Datensätze des Bundes, der
-  Kantone, der Gemeinden und Partnerinstitutionen sowie konkrete Beispiele
-  (Showcases), die ihre Wiederverwendung veranschaulichen.
-
-  Diese Website richtet sich an alle: Bürgerinnen und Bürger, Journalistinnen und Journalisten, Entwicklerinnen und Entwickler, KMU, Studierende, Lehrpersonen sowie Verwaltungen.
+  Auf opendata.swiss entdecken Sie Datensätze aus Verwaltung, Forschung und
+  weiteren öffentlichen Bereichen. Das Portal bietet Zugang zu offenen Daten und
+  inspirierenden Anwendungsbeispielen – für alle, die Daten nutzen, analysieren
+  oder daraus neue Lösungen entwickeln möchten.
 
 
   ::OdsHeroSearch

@@ -1,14 +1,13 @@
 ---
 heroImage: https://picsum.photos/1192/894/?image=29
-heading: OpenData.Swiss
+title: Accueil
+heading: opendata.swiss
 subHeading: >-
-  Bienvenue sur opendata.swiss, le portail national des données ouvertes en
-  Suisse. Vous y trouverez des milliers de jeux de données publics issus de la
-  Confédération, des cantons, des communes et d’institutions partenaires, ainsi
-  que des exemples concrets (showcases) illustrant leur réutilisation.
-
-  Ce site s’adresse à toutes et tous : citoyennes et citoyens, journalistes, développeuses et développeurs, PME, étudiantes et étudiants, enseignantes et enseignants, ainsi qu’aux administrations.
-
+  Sur opendata.swiss, vous trouverez des jeux de données provenant de
+  l’administration, de la recherche et d’autres domaines d’intérêt public. Le
+  portail donne accès à des données ouvertes et à des exemples concrets de
+  réutilisation, pour toutes celles et tous ceux qui souhaitent les explorer,
+  les analyser ou créer de nouvelles solutions.
 
 
   ::OdsHeroSearch
@@ -16,7 +15,6 @@ subHeading: >-
   ::
 parent: null
 fullWidth: true
-title: Accueil
 mainMenu: null
 after: null
 ---
