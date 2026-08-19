@@ -4,7 +4,7 @@ title: Andamento degli affitti a Berna – Uno strumento per inquilini, urbanist
   e decisori
 image: https://repository-images.githubusercontent.com/788945570/a1998415-fef9-4518-8a5d-d2937f17edec
 url: https://giodi.github.io/dashboard-wohnungsmietpreise-stadt-bern/
-categories:
+themes:
   - http://publications.europa.eu/resource/authority/data-theme/SOCI
   - http://publications.europa.eu/resource/authority/data-theme/REGI
 type: https://opendata.swiss/vocabulary/showcase-type/application
