@@ -1,16 +1,19 @@
 ---
 active: true
+pinned: null
 title: Évolution des loyers à Berne – Un outil pour les locataires, urbanistes
   et décideurs
-image: https://repository-images.githubusercontent.com/788945570/a1998415-fef9-4518-8a5d-d2937f17edec
 url: https://giodi.github.io/dashboard-wohnungsmietpreise-stadt-bern/
 themes:
   - http://publications.europa.eu/resource/authority/data-theme/SOCI
   - http://publications.europa.eu/resource/authority/data-theme/REGI
 type: https://opendata.swiss/vocabulary/showcase-type/application
+images: 
+  image: https://repository-images.githubusercontent.com/788945570/a1998415-fef9-4518-8a5d-d2937f17edec
 datasets:
   - id: https://opendata.swiss/set/data/523-staatskanzlei-kanton-zuerich
     label: "Kanton Bern: Gebäude, Wohnungen und Wohnverhältnisse"
+createdBy: giodi
 ---
 Ce tableau de bord **interactif** permet de visualiser l’évolution des **loyers à Berne** entre 2013 et 2024, par **quartier**, **année** et **taille de logement**. Il facilite la compréhension des dynamiques du marché locatif et offre une vue d’ensemble claire, utile à la fois pour les **citoyens**, les **acteurs publics** et les **professionnels du logement**.
 

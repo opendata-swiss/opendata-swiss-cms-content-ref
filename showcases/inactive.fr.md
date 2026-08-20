@@ -2,7 +2,8 @@
 active: false
 pinned: null
 title: Inactive showcase
-image: https://example.com/showcase
+image: 
+  - images: https://example.com/showcase
 url: https://giodi.github.io/dashboard-wohnungsmietpreise-stadt-bern/
 themes:
   - http://publications.europa.eu/resource/authority/data-theme/SOCI

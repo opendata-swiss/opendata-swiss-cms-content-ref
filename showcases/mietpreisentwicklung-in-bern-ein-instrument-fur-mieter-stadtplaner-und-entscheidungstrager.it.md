@@ -1,16 +1,19 @@
 ---
 active: true
+pinned: null
 title: Andamento degli affitti a Berna – Uno strumento per inquilini, urbanisti
   e decisori
-image: https://repository-images.githubusercontent.com/788945570/a1998415-fef9-4518-8a5d-d2937f17edec
 url: https://giodi.github.io/dashboard-wohnungsmietpreise-stadt-bern/
 themes:
   - http://publications.europa.eu/resource/authority/data-theme/SOCI
   - http://publications.europa.eu/resource/authority/data-theme/REGI
 type: https://opendata.swiss/vocabulary/showcase-type/application
+images: 
+  image: https://repository-images.githubusercontent.com/788945570/a1998415-fef9-4518-8a5d-d2937f17edec
 datasets:
   - id: https://opendata.swiss/set/data/523-staatskanzlei-kanton-zuerich
     label: "Kanton Bern: Gebäude, Wohnungen und Wohnverhältnisse"
+createdBy: giodi
 ---
 Questo **quadro di controllo interattivo** consente di visualizzare l'andamento degli **affitti a Berna** tra il 2013 e il 2024, per **quartiere**, **anno** e **dimensione dell'alloggio**. Facilita la comprensione delle dinamiche del mercato locativo e offre una panoramica chiara, utile sia per i **cittadini** che per gli **attori pubblici** e i **professionisti del settore immobiliare**.
 
